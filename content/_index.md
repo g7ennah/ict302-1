@@ -8,8 +8,8 @@ Hello! This is our Hugo site.
 
      ICT 302 
 
-Group 5 <br>
-Andres Quintero <br>
-Glenna Saldanha <br>
-Maria Parks <br>
+Group 5  
+Andres Quintero  
+Glenna Saldanha  
+Maria Parks  
 Ryder White
