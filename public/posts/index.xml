@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Welcome on My New Hugo Site</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content in Welcome on My New Hugo Site</description>
+    <title>Posts on My New Hugo Site</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 02 Oct 2025 11:48:52 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Maria First Post</title>
-      <link>http://localhost:1313/posts/maria-first-post/</link>
+      <link>http://localhost:1313/posts/my-first-post/</link>
       <pubDate>Thu, 02 Oct 2025 11:48:52 -0400</pubDate>
-      <guid>http://localhost:1313/posts/maria-first-post/</guid>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
       <description>&lt;h2 id=&#34;header-one&#34;&gt;Header One&lt;/h2&gt;&#xA;&lt;p&gt;This is just a &lt;em&gt;draft&lt;/em&gt; of a post for &lt;strong&gt;practice&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Here is some other Markdown syntax:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;ordered list&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;unordered list&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;header-3-syntax&#34;&gt;Header 3 &lt;em&gt;&lt;strong&gt;syntax&lt;/strong&gt;&lt;/em&gt;&lt;/h3&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;blockquotes.  this is a fun way to format content&lt;/p&gt;&lt;/blockquote&gt;</description>
     </item>
   </channel>
