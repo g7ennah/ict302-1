@@ -5,3 +5,11 @@ title = "Welcome"
 +++
 
 Hello! This is our Hugo site.
+
+     ICT 302 
+
+Group 5
+Andres Quintero
+Glenna Saldanha
+Maria Parks
+Ryder White
