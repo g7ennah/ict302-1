@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2025 </copyright>
-    <lastBuildDate>Thu, 02 Oct 2025 12:06:06 -0400</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 Oct 2025 17:26:56 -0400</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Testpost</title>
+      <link>http://localhost:1313/posts/testpost/</link>
+      <pubDate>Sun, 12 Oct 2025 17:26:56 -0400</pubDate>
+      
+      <guid>http://localhost:1313/posts/testpost/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Glenna_s First Post</title>
