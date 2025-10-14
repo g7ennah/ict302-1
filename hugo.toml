@@ -1,8 +1,4 @@
 baseURL = "https://symphonious-zuccutto-ade378.netlify.app/"
 languageCode = "en-us"
 title = "My New Hugo Site"
-<<<<<<< HEAD
-theme = 'cleanwhite'
-=======
-theme = 'blowfish-main'
->>>>>>> 943d5e6789b5df27ead0d511b520a4b4d3df5289
+theme ="ananke"
