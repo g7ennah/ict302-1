@@ -8,13 +8,16 @@
     <loc>http://localhost:1313/posts/</loc>
     <lastmod>2025-10-14T12:02:49-04:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/saldanha-page/</loc>
+    <lastmod>2025-10-14T12:01:48-04:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/parks-page/</loc>
     <lastmod>2025-10-14T11:58:58-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/testpost/</loc>
     <lastmod>2025-10-12T17:26:56-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/glenna-first-post/</loc>
+    <loc>http://localhost:1313/posts/glenna-first-post/</loc>
     <lastmod>2025-10-02T12:06:06-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/maria-first-post/</loc>
