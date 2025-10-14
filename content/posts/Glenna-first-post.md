@@ -1,15 +1,14 @@
 +++
 date = '2025-10-02T12:06:06-04:00'
 draft = true
-title = 'Glenna_s First Post'
+title = 'Glenna - First Post'
 +++
-Whatsup everyone!!
 
 ## Go Wildcats!!
 
  **ICT315 Group 5**
  
- My name is *GLENNA*, and I am a seniro at the University of Kentucky
+ My name is *GLENNA*, and I am a senior at the University of Kentucky
 majoring in Information Communication Technology with a minor in Business Analytics.
 
 
