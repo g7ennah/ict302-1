@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/Users/mariaparks/Documents/GitHub/ict302-1",
+	"sourceRoot": "C:/Users/hp/ict302-1",
 	"sources": [
 		"ananke/css/main.css"
 	],
