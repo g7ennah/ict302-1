@@ -16,6 +16,13 @@
       <description></description>
     </item>
     <item>
+      <title>Glenna - First Post</title>
+      <link>http://localhost:1313/posts/glenna-first-post/</link>
+      <pubDate>Thu, 02 Oct 2025 12:06:06 -0400</pubDate>
+      <guid>http://localhost:1313/posts/glenna-first-post/</guid>
+      <description>&lt;h2 id=&#34;go-wildcats&#34;&gt;Go Wildcats!!&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;ICT315 Group 5&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;My name is &lt;em&gt;GLENNA&lt;/em&gt;, and I am a senior at the University of Kentucky&#xA;majoring in Information Communication Technology with a minor in Business Analytics.&lt;/p&gt;&#xA;&lt;p&gt;Connect with me on Linkedin &amp;ndash;&amp;gt; &lt;a href=&#34;https://www.linkedin.com/in/glennasaldanha/&#34;&gt;https://www.linkedin.com/in/glennasaldanha/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Maria First Post</title>
       <link>http://localhost:1313/posts/maria-first-post/</link>
       <pubDate>Thu, 02 Oct 2025 11:48:52 -0400</pubDate>
