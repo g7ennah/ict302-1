@@ -2,32 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/parks-post/</loc>
+    <loc>http://localhost:62753/posts/</loc>
+    <lastmod>2025-10-14T12:11:16-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:62753/posts/saldanha-post/</loc>
+    <lastmod>2025-10-14T12:11:16-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:62753/posts/parks-post/</loc>
     <lastmod>2025-10-14T12:02:49-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-10-14T12:02:49-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/saldanha-page/</loc>
+    <loc>http://localhost:62753/saldanha-page/</loc>
     <lastmod>2025-10-14T12:01:48-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/parks-page/</loc>
+    <loc>http://localhost:62753/parks-page/</loc>
     <lastmod>2025-10-14T11:58:58-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/testpost/</loc>
+    <loc>http://localhost:62753/posts/testpost/</loc>
     <lastmod>2025-10-12T17:26:56-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/glenna-first-post/</loc>
+    <loc>http://localhost:62753/posts/glenna-first-post/</loc>
     <lastmod>2025-10-02T12:06:06-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/maria-first-post/</loc>
+    <loc>http://localhost:62753/posts/maria-first-post/</loc>
     <lastmod>2025-10-02T11:48:52-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost:62753/</loc>
     <lastmod>2025-09-30T15:49:29-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://localhost:62753/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://localhost:62753/tags/</loc>
   </url>
 </urlset>

@@ -8,7 +8,7 @@ title = 'Glenna - First Post'
 
  **ICT315 Group 5**
  
- My name is *GLENNA*, and I am a senior at the University of Kentucky
+ My name is *Glenna Saldanha*, and I am a senior at the University of Kentucky
 majoring in Information Communication Technology with a minor in Business Analytics.
 
 
