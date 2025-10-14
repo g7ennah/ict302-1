@@ -7,7 +7,11 @@ Whatsup everyone!!
 
 ## Go Wildcats!!
 
- This is **ICT315 Group 5** space, and I am *GLENNA*.
+ **ICT315 Group 5**
+ 
+ My name is *GLENNA*, and I am a seniro at the University of Kentucky
+majoring in Information Communication Technology with a minor in Business Analytics.
+
 
  Connect with me on Linkedin --> https://www.linkedin.com/in/glennasaldanha/
 
