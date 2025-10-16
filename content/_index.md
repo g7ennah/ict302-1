@@ -6,10 +6,11 @@ title = "Welcome"
 
 Hello! This is our Hugo site.
 
-     ICT 302 
+     ICT 302
 
-Group 5  
-Andres Quintero  
-Glenna Saldanha  
-Maria Parks  
-Ryder White
+**Group 5**
+
+***Parks, Maria***<br>
+***Quintero, Andres*** <br> 
+***Saldanha, Glenna***<br>
+***White, Ryder***

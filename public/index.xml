@@ -6,14 +6,28 @@
     <description>Recent content in Welcome on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 Oct 2025 12:11:16 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 14 Oct 2025 12:17:45 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ryder White Post</title>
+      <link>http://localhost:1313/posts/white-post/</link>
+      <pubDate>Tue, 14 Oct 2025 12:17:45 -0400</pubDate>
+      <guid>http://localhost:1313/posts/white-post/</guid>
+      <description>&lt;h2 id=&#34;ryder-test-post&#34;&gt;Ryder Test Post&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>White Page</title>
+      <link>http://localhost:1313/white-page/</link>
+      <pubDate>Tue, 14 Oct 2025 12:17:00 -0400</pubDate>
+      <guid>http://localhost:1313/white-page/</guid>
+      <description>&lt;h2 id=&#34;test-page-for-ryder&#34;&gt;Test page for Ryder&lt;/h2&gt;</description>
+    </item>
     <item>
       <title>Saldanha Post</title>
       <link>http://localhost:1313/posts/saldanha-post/</link>
       <pubDate>Tue, 14 Oct 2025 12:11:16 -0400</pubDate>
       <guid>http://localhost:1313/posts/saldanha-post/</guid>
-      <description>&lt;p&gt;&lt;em&gt;&lt;strong&gt;Create and Access a &lt;strong&gt;POST&lt;/strong&gt; on your Hugo Site&lt;/strong&gt;&lt;/em&gt; - Glenna Saldanha&lt;/p&gt;&#xA;&lt;p&gt;yey&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;em&gt;&lt;strong&gt;Create and Access a &lt;strong&gt;post&lt;/strong&gt; on your Hugo Site&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Step 1: Confirm Hugo Repository Placement&lt;/strong&gt;&#xA;When we installed Hugo in class, I told everyone to &amp;ldquo;download [the Hugo] repository to a folder within your user directory&amp;rdquo; but I did not clarify what that meant. It will make the next steps (and the rest of the semester) much easier if you ensure that you have your repository installed in the correct location. If you aren&amp;rsquo;t sure that&amp;rsquo;s the case, please follow the directions below. Please keep in mind that you cannot resolve this by simply dragging files and folders from one location to another!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Parks Post</title>
