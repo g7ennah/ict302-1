@@ -1,10 +1,10 @@
 +++
 date = '2025-09-30T15:49:29-04:00'
 draft = false
-title = "Welcome"
+title = "Right to Repair"
 +++
 
-Hello! This is our Hugo site.
+Group 5's solution for group 4.
 
      ICT 302
 
