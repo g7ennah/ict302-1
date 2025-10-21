@@ -10,7 +10,10 @@ Hello! This is our Hugo site.
 
 **Group 5**
 
-***Parks, Maria***<br>
-***Quintero, Andres*** <br> 
-***Saldanha, Glenna***<br>
-***White, Ryder***
+Andres Quintero
+
+Glenna Saldanha
+
+Maria Parks
+
+Ryder White
