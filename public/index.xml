@@ -6,8 +6,15 @@
     <description>Recent content in Right to Repair on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 Oct 2025 12:17:45 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 23 Oct 2025 10:00:00 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Get Certified</title>
+      <link>http://localhost:1313/get-certified-page/</link>
+      <pubDate>Thu, 23 Oct 2025 10:00:00 -0400</pubDate>
+      <guid>http://localhost:1313/get-certified-page/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Ryder White Post</title>
       <link>http://localhost:1313/posts/white-post/</link>
