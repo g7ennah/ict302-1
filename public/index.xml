@@ -10,10 +10,17 @@
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Get Certified</title>
+      <link>http://localhost:1313/posts/getcertifed-post/</link>
+      <pubDate>Thu, 23 Oct 2025 10:00:00 -0400</pubDate>
+      <guid>http://localhost:1313/posts/getcertifed-post/</guid>
+      <description>&lt;p&gt;Are you ready to Get Certified? Tell us about your relevant work experience and(or) upload your certification(s).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>HP Pavilion 15-F Repair</title>
       <link>http://localhost:1313/pages/get-certified-page/</link>
       <pubDate>Thu, 23 Oct 2025 10:00:00 -0400</pubDate>
       <guid>http://localhost:1313/pages/get-certified-page/</guid>
-      <description>&lt;p&gt;Are you ready to Get Certified? Tell us about your relevant work experience and(or) upload your certification(s).&lt;/p&gt;</description>
+      <description>&lt;p&gt;The HP Pavilion 15-f series is a line of 15.6-inch laptops, including models with Intel and AMD processors, HD or FHD display options. The models feature up to 8GB of RAM, HDD, or SSD storage. Models in this lineup include the f200c, f305dx, f337nr, f337wm, and f387wm. This page contains repair and service information related to the HP Pavilion 15-F series.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ryder White Post</title>
@@ -21,13 +28,6 @@
       <pubDate>Tue, 14 Oct 2025 12:17:45 -0400</pubDate>
       <guid>http://localhost:1313/posts/white-post/</guid>
       <description>&lt;h2 id=&#34;ryder-test-post&#34;&gt;Ryder Test Post&lt;/h2&gt;</description>
-    </item>
-    <item>
-      <title>Saldanha Post</title>
-      <link>http://localhost:1313/posts/saldanha-post/</link>
-      <pubDate>Tue, 14 Oct 2025 12:11:16 -0400</pubDate>
-      <guid>http://localhost:1313/posts/saldanha-post/</guid>
-      <description>&lt;p&gt;&lt;em&gt;&lt;strong&gt;Create and Access a &lt;strong&gt;post&lt;/strong&gt; on your Hugo Site&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Step 1: Confirm Hugo Repository Placement&lt;/strong&gt;&#xA;When we installed Hugo in class, I told everyone to &amp;ldquo;download [the Hugo] repository to a folder within your user directory&amp;rdquo; but I did not clarify what that meant. It will make the next steps (and the rest of the semester) much easier if you ensure that you have your repository installed in the correct location. If you aren&amp;rsquo;t sure that&amp;rsquo;s the case, please follow the directions below. Please keep in mind that you cannot resolve this by simply dragging files and folders from one location to another!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Parks Post</title>
