@@ -24,9 +24,9 @@
     </item>
     <item>
       <title>White Page</title>
-      <link>http://localhost:1313/white-page/</link>
+      <link>http://localhost:1313/pages/white-page/</link>
       <pubDate>Tue, 14 Oct 2025 12:17:00 -0400</pubDate>
-      <guid>http://localhost:1313/white-page/</guid>
+      <guid>http://localhost:1313/pages/white-page/</guid>
       <description>&lt;h2 id=&#34;test-page-for-ryder&#34;&gt;Test page for Ryder&lt;/h2&gt;</description>
     </item>
     <item>
@@ -44,10 +44,17 @@
       <description>&lt;p&gt;This is my test post for 10/14 assignment!&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Saldanha Page</title>
+      <link>http://localhost:1313/pages/saldanha-page/</link>
+      <pubDate>Tue, 14 Oct 2025 12:01:48 -0400</pubDate>
+      <guid>http://localhost:1313/pages/saldanha-page/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Glenna - Creating Content&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Let&amp;rsquo;s make learning a new language fun!!&lt;/p&gt;&#xA;&lt;p&gt;Add me on Duo and let&amp;rsquo;s streak&lt;/p&gt;&#xA;&lt;p&gt;Follow me on Duolingo - @g7enna_69&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Repair Guides</title>
-      <link>http://localhost:1313/parks-page/</link>
+      <link>http://localhost:1313/pages/parks-page/</link>
       <pubDate>Tue, 14 Oct 2025 11:58:58 -0400</pubDate>
-      <guid>http://localhost:1313/parks-page/</guid>
+      <guid>http://localhost:1313/pages/parks-page/</guid>
       <description>&lt;p&gt;Hi, my name is Maria Parks.  I am a senior at UK studying information and Communication Technologies.  Lookinf forward to sharing content on this page.&lt;/p&gt;</description>
     </item>
     <item>
