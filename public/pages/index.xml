@@ -6,8 +6,22 @@
     <description>Recent content in Pages on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 Oct 2025 11:58:58 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 14 Oct 2025 12:17:00 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/pages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>White Page</title>
+      <link>http://localhost:1313/pages/white-page/</link>
+      <pubDate>Tue, 14 Oct 2025 12:17:00 -0400</pubDate>
+      <guid>http://localhost:1313/pages/white-page/</guid>
+      <description>&lt;h2 id=&#34;test-page-for-ryder&#34;&gt;Test page for Ryder&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>Saldanha Page</title>
+      <link>http://localhost:1313/pages/saldanha-page/</link>
+      <pubDate>Tue, 14 Oct 2025 12:01:48 -0400</pubDate>
+      <guid>http://localhost:1313/pages/saldanha-page/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Glenna - Creating Content&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Let&amp;rsquo;s make learning a new language fun!!&lt;/p&gt;&#xA;&lt;p&gt;Add me on Duo and let&amp;rsquo;s streak&lt;/p&gt;&#xA;&lt;p&gt;Follow me on Duolingo - @g7enna_69&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Repair Guides</title>
       <link>http://localhost:1313/pages/parks-page/</link>
