@@ -10,9 +10,9 @@
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Get Certified</title>
-      <link>http://localhost:1313/get-certified-page/</link>
+      <link>http://localhost:1313/getcertified/get-certified-page/</link>
       <pubDate>Thu, 23 Oct 2025 10:00:00 -0400</pubDate>
-      <guid>http://localhost:1313/get-certified-page/</guid>
+      <guid>http://localhost:1313/getcertified/get-certified-page/</guid>
       <description></description>
     </item>
     <item>
