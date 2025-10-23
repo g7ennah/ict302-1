@@ -2,7 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/get-certified-page/</loc>
+    <loc>http://localhost:1313/pages/get-certified-page/</loc>
+    <lastmod>2025-10-23T10:00:00-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/pages/</loc>
     <lastmod>2025-10-23T10:00:00-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
@@ -11,14 +14,17 @@
     <loc>http://localhost:1313/posts/white-post/</loc>
     <lastmod>2025-10-14T12:17:45-04:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/pages/white-page/</loc>
+    <lastmod>2025-10-14T12:17:00-04:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/saldanha-post/</loc>
     <lastmod>2025-10-14T12:11:16-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/parks-post/</loc>
     <lastmod>2025-10-14T12:02:49-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/pages/</loc>
-    <lastmod>2025-10-14T11:58:58-04:00</lastmod>
+    <loc>http://localhost:1313/pages/saldanha-page/</loc>
+    <lastmod>2025-10-14T12:01:48-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/pages/parks-page/</loc>
     <lastmod>2025-10-14T11:58:58-04:00</lastmod>
