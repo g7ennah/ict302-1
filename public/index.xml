@@ -37,6 +37,13 @@
       <description>&lt;p&gt;&lt;em&gt;&lt;strong&gt;Create and Access a &lt;strong&gt;post&lt;/strong&gt; on your Hugo Site&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Step 1: Confirm Hugo Repository Placement&lt;/strong&gt;&#xA;When we installed Hugo in class, I told everyone to &amp;ldquo;download [the Hugo] repository to a folder within your user directory&amp;rdquo; but I did not clarify what that meant. It will make the next steps (and the rest of the semester) much easier if you ensure that you have your repository installed in the correct location. If you aren&amp;rsquo;t sure that&amp;rsquo;s the case, please follow the directions below. Please keep in mind that you cannot resolve this by simply dragging files and folders from one location to another!&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Saldanha Post</title>
+      <link>http://localhost:1313/posts/saldanha-post/</link>
+      <pubDate>Tue, 14 Oct 2025 12:11:16 -0400</pubDate>
+      <guid>http://localhost:1313/posts/saldanha-post/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Parks Post</title>
       <link>http://localhost:1313/posts/parks-post/</link>
       <pubDate>Tue, 14 Oct 2025 12:02:49 -0400</pubDate>
